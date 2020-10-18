@@ -1,3 +1,3 @@
-# rizkyyz
+# Mailler v.2
 
-  Mailler V.2
+*Rizkyyz Coders*
